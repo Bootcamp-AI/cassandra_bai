@@ -1,0 +1,264 @@
+[
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "Cola",
+									"EndTime": 0.695,
+									"StartTime": 0.325,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "commo",
+									"EndTime": 1.245,
+									"StartTime": 0.695,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "Cola commo"
+						}
+					],
+					"ChannelId": "ch_0",
+					"EndTime": 1.775,
+					"IsPartial": true,
+					"ResultId": "906466d9-8900-44e4-8b52-503e27e426a4",
+					"StartTime": 0.285
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Confidence": 0.2933,
+									"Content": "Cola",
+									"EndTime": 0.695,
+									"StartTime": 0.325,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.1576,
+									"Content": "comas",
+									"EndTime": 1.795,
+									"StartTime": 0.695,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 1.795,
+									"StartTime": 1.795,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "Cola comas."
+						}
+					],
+					"ChannelId": "ch_0",
+					"EndTime": 2.205,
+					"IsPartial": false,
+					"ResultId": "906466d9-8900-44e4-8b52-503e27e426a4",
+					"StartTime": 0.285
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	}
+]
